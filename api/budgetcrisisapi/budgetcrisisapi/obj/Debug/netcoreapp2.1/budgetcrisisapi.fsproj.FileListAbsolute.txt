@@ -1,0 +1,9 @@
+C:\Users\ralex\Documents\github\budgetcrisis\api\budgetcrisisapi\budgetcrisisapi\bin\Debug\netcoreapp2.1\budgetcrisisapi.deps.json
+C:\Users\ralex\Documents\github\budgetcrisis\api\budgetcrisisapi\budgetcrisisapi\bin\Debug\netcoreapp2.1\budgetcrisisapi.runtimeconfig.json
+C:\Users\ralex\Documents\github\budgetcrisis\api\budgetcrisisapi\budgetcrisisapi\bin\Debug\netcoreapp2.1\budgetcrisisapi.runtimeconfig.dev.json
+C:\Users\ralex\Documents\github\budgetcrisis\api\budgetcrisisapi\budgetcrisisapi\bin\Debug\netcoreapp2.1\budgetcrisisapi.dll
+C:\Users\ralex\Documents\github\budgetcrisis\api\budgetcrisisapi\budgetcrisisapi\bin\Debug\netcoreapp2.1\budgetcrisisapi.pdb
+C:\Users\ralex\Documents\github\budgetcrisis\api\budgetcrisisapi\budgetcrisisapi\obj\Debug\netcoreapp2.1\budgetcrisisapi.fsprojAssemblyReference.cache
+C:\Users\ralex\Documents\github\budgetcrisis\api\budgetcrisisapi\budgetcrisisapi\obj\Debug\netcoreapp2.1\budgetcrisisapi.dll
+C:\Users\ralex\Documents\github\budgetcrisis\api\budgetcrisisapi\budgetcrisisapi\obj\Debug\netcoreapp2.1\budgetcrisisapi.pdb
+C:\Users\ralex\Documents\github\budgetcrisis\api\budgetcrisisapi\budgetcrisisapi\obj\Debug\netcoreapp2.1\budgetcrisisapi.fsproj.CoreCompileInputs.cache
